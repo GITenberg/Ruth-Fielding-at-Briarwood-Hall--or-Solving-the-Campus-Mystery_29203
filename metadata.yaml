@@ -1,0 +1,27 @@
+_repo: Ruth-Fielding-at-Briarwood-Hall--or-Solving-the-Campus-Mystery_29203
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29203-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Emerson, Alice B.
+    gutenberg_agent_id: '1619'
+    url: http://www.gutenberg.org/2009/agents/1619
+description: ''
+gutenberg_issued: '2009-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fielding, Ruth (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Clubs -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hazing -- Juvenile fiction'
+title: Ruth Fielding at Briarwood Hall; or, Solving the Campus Mystery
+url: http://www.gutenberg.org/ebooks/29203
